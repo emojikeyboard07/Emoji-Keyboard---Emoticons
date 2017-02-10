@@ -1,7 +1,5 @@
 <b>Privacy Policy of Emoji Keyboard - Emoticons</b>
 
-Privacy Policy of Best-Emoji-Keyboard-Pro
-
 Record Audio (android.permission.RECORD_AUDIO):
 
 We use this permisstion fpr speech to text, we are not sending tis data to other app or not selling it to third party. All data distroy when audio convert to text.
